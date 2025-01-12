@@ -23,3 +23,4 @@ rootProject.name = "AndroidCourse2k25"
 include(":app")
 include(":day1")
 include(":day2")
+include(":day4")
