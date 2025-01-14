@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">day5</string>
+    <string name="enterName">Enter name here</string>
+    <string name="next">Next</string>
+</resources>
