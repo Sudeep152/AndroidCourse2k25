@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tool="http://schemas.android.com/tools"
+    android:id="@+id/llMain"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/cardview_light_background"
+    android:padding="10dp"
+    android:layout_margin="5dp"
+    android:orientation="vertical">
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/tvName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        tool:text="Student1" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/tvEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        tool:text="sudeep@gmail.com" />
+</LinearLayout>
