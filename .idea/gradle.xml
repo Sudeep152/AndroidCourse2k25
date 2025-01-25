@@ -12,11 +12,14 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/day1" />
+            <option value="$PROJECT_DIR$/day10" />
             <option value="$PROJECT_DIR$/day2" />
             <option value="$PROJECT_DIR$/day4" />
             <option value="$PROJECT_DIR$/day5" />
             <option value="$PROJECT_DIR$/day6" />
             <option value="$PROJECT_DIR$/day7" />
+            <option value="$PROJECT_DIR$/day8" />
+            <option value="$PROJECT_DIR$/day9" />
           </set>
         </option>
         <option name="resolveExternalAnnotations" value="false" />
